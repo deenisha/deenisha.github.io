@@ -504,7 +504,7 @@ hr {
 
 @media screen and (max-width: 520px) {
   html, body {
-    font-size: 15px; }
+    font-size: 0px; }
 
   body {
     margin: 20px 0;
@@ -700,7 +700,7 @@ hr {
     transform: translate(202px, 202px); }
 
   .tile .tile-inner {
-    font-size: 35px; }
+    font-size: 0px; }
 
   .game-message p {
     font-size: 30px !important;
