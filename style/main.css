@@ -337,7 +337,8 @@ hr {
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 0px; } }
+        font-size: 0px; width: 100%; } }
+
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: url('../img/256.jpg');
