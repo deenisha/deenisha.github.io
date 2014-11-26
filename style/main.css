@@ -637,6 +637,7 @@ hr {
     width: 58px;
     height: 58px;
     line-height: 67.5px; }
+    img {max-width:100%}
   .tile.tile-position-1-1 {
     -webkit-transform: translate(0px, 0px);
     -moz-transform: translate(0px, 0px);
