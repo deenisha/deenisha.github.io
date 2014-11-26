@@ -344,7 +344,7 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         background-size: 100%;
-        font-size: 0px; width: 100%; height: auto; } }
+        font-size: 0px; width: 100%; } }
 
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
