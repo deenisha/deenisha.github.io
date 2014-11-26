@@ -344,6 +344,7 @@ hr {
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
+        background-size: 100%;
         font-size: 0px; width: 100%; height: auto; } }
 
   .tile.tile-256 .tile-inner {
