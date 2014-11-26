@@ -594,7 +594,8 @@ hr {
         color: #f9f6f2;
         height: 40px;
         line-height: 42px;
-        margin-left: 9px; }
+        margin-left: 9px; 
+        font-size: 15px;}
         .game-container .game-message a.keep-playing-button {
           display: none; }
       .game-container .game-message.game-won {
