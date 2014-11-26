@@ -538,7 +538,8 @@ hr {
     padding: 0;
     display: block;
     box-sizing: border-box;
-    margin-top: 2px; }
+    margin-top: 2px;
+    font-size: 12px; }
 
   .game-container {
     margin-top: 17px;
